@@ -3,15 +3,9 @@
 ## I'm currently studying data science and working as a Data Analyst 
 
 
-
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-
-
-
-
-
+<p align="center">
+  <img src="images/hi.jpg" alt="">
+</p>
 
 
 <p align="left">
