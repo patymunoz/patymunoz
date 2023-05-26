@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Paty 
+
+## I'm currently studying data science and working as a Data Analyst 
+
+
+
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+
+
+
+
+
+
 
 <p align="left">
   <a href="https://twitter.com/pattieavenged" target="blank">
@@ -8,6 +22,9 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" />
   </a>&nbsp;
 </p>
+
+
+
 
 
 
