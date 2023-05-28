@@ -16,13 +16,16 @@
 
 <p align="center">
   <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
-  <strong> I'm studying Data Science and working as a Data Analyst </strong>
+  <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
+  <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
+  <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
+  <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
   <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
 </p>
 
 ## About me
 
-🟣 I am a third-semester candidate for a Master's Degree in Data Science at [ITESO](https://www.iteso.mx/), Mexico. Currently, I am working as a data analyst on various public Mexican projects.
+🟣 I am a third-semester candidate for a *Master's Degree in Data Science at [ITESO](https://www.iteso.mx/), Mexico*. Currently, I am working as a *data analyst* on various public Mexican projects.
 
 🟣 I’m looking to collaborate on projects with social impact by applying data analysis and math models. 
 
