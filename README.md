@@ -22,26 +22,38 @@
 
 ## About me
 
-🟣 I’m currently working on ...
+🟣 I am a third-semester candidate for a Master's Degree in Data Science at [ITESO](https://www.iteso.mx/), Mexico. Currently, I am working as a data analyst on various public Mexican projects.
 
-🟣 I’m currently learning ...
+🟣 I’m looking to collaborate on projects with social impact by applying data analysis and math models. 
 
-🟣 I’m looking to collaborate on ...
+🟣 I really love get into *classification and clustering* projects. 
 
-🟣 Ask me about ...
+🟣 Ask me about videogames🎮, plants 🪴and cats 😽. 
 
-🟣 How to reach me: ...
+🟣 How to reach me: munpaty@gmail.com
 
 
 ## Programming Languages
 <p>
     <a href="https://github.com/patymunoz"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/patymunoz"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&logo=latex&logoColor=white"></a>
+    <a href="https://github.com/patymunoz"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white"></a>
+  
 </p>
 
 ## Frameworks and Libraries
 <p>
     <a href="https://github.com/patymunoz"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/patymunoz"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/patymunoz"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?&logo=tensorflow&logoColor=white"></a>
+    <a href="https://github.com/patymunoz"><img alt="sciki-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white"></a>
+</p>
+
+## Database
+<p> 
+    <a href="https://github.com/patymunoz"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white"></a>  
+    <a href="https://github.com/patymunoz"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white"></a>  
+  
 </p>
 
 ## Software and Tools
@@ -55,4 +67,5 @@
 
 ## Others
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=patymunoz&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patymunoz&theme=tokyonight) |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=patymunoz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patymunoz&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
