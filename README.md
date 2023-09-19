@@ -1,20 +1,6 @@
 <p align="center"> <strong>Hi there, I'm Paty</strong></p> 
 
 <p align="center">
-  <a href="https://twitter.com/pattieavenged" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/patricia-muñoz-lópez-b5b622213" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" />
-  </a>&nbsp;
-</p>
-
-<p align="center">
-  <img src="images/hi.jpg" alt="">
-</p>
-
-
-<p align="center">
   <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
   <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
   <img width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZmYjUwOGQ0OWFhNjU0MTNmZWNjMGVkYjBlMzI1ODM0MjkwYzRmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Gfm1GL9Y2RXVNUIqvS/giphy.gif" alt="Descripción de la imagen">
