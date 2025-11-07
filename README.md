@@ -3,7 +3,7 @@
 
 ## About me
 
-🟣 I am graduate of the *Master's Degree in Data Science at [ITESO](https://www.iteso.mx/), Mexico*.
+🟣 I hold a Master Degree in Data Science.
 
 🟣 I’m looking to collaborate on projects with social impact by applying data analysis and math models. 
 
