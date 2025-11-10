@@ -1,52 +1,64 @@
-<p align="center"> <strong>Hi there, I'm Paty</strong></p> 
+<p align="center"><strong>Hi there 👋, I'm Paty</strong></p>
 
+<p align="center">
+  <a href="https://patymunoz.github.io/portfolio/">🌐 Check out my Portfolio</a>
+</p>
 
-## About me
+---
 
-🟣 I hold a Master Degree in Data Science.
+## 💡 About Me
 
-🟣 I’m looking to collaborate on projects with social impact by applying data analysis and math models. 
+🟣 I hold a **Master’s Degree in Data Science**.  
+🟣 I’m passionate about using **data analysis and mathematical models** to drive **social impact**.  
+🟣 I enjoy diving into projects involving **Natural Language Processing (NLP)**, **classification**, and **clustering**.  
+🟣 Ask me about 🎮 videogames, 🪴 plants, and 😽 cats.  
+🟣 Reach me at: **munpaty@gmail.com**
 
-🟣 I really love get into *Natural Language Processing (NLP)* and *classification and clustering* projects. 
+---
 
-🟣 Ask me about videogames🎮, plants 🪴and cats 😽. 
-
-🟣 How to reach me: munpaty@gmail.com
-
-
-## Programming Languages
+## Programming languages
 <p>
-    <a href="https://github.com/patymunoz"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/patymunoz"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&logo=latex&logoColor=white"></a>
-    <a href="https://github.com/patymunoz"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white"></a>
-  
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=postgresql&logoColor=white"/>
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"/>
 </p>
 
-## Frameworks and Libraries
+---
+
+## Frameworks & libraries
 <p>
-    <a href="https://github.com/patymunoz"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/patymunoz"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/patymunoz"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?&logo=tensorflow&logoColor=white"></a>
-    <a href="https://github.com/patymunoz"><img alt="sciki-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white"></a>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"/>
 </p>
 
-## Database
-<p> 
-    <a href="https://github.com/patymunoz"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white"></a>  
-    <a href="https://github.com/patymunoz"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white"></a>  
-  
-</p>
+---
 
-## Software and Tools
+## Databases
 <p>
-    <a href="https://github.com/patymunoz"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/patymuno"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/patymuno"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/patymuno"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/patymuno"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
 </p>
 
-## Others
+---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=patymunoz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patymunoz&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+## Tools & software
+<p>
+  <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?logo=google-colab&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?logo=google-sheets&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patymunoz&theme=tokyonight" width="93%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=patymunoz&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patymunoz&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
